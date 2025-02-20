@@ -20,7 +20,7 @@ Computer Vision involves teaching machines to interpret and understand visual in
 - Implement object detection and segmentation models
 - Work with OpenCV and deep learning frameworks
 
----
+
 
 ### 2. Deep Learning (DL)
 **Description:**
@@ -38,7 +38,7 @@ Deep Learning focuses on neural networks with multiple layers that enable advanc
 - Understand different network architectures and their applications
 - Optimize models for better performance
 
----
+
 
 ### 3. Natural Language Processing (NLP)
 **Description:**
@@ -56,7 +56,6 @@ NLP is a branch of AI that helps machines understand, interpret, and generate hu
 - Train models for sentiment analysis and language translation
 - Work with libraries like NLTK, SpaCy, and Hugging Face
 
----
 
 ### 4. Software Engineering (SE)
 **Description:**
@@ -73,8 +72,6 @@ Software Engineering focuses on designing, developing, and maintaining software 
 - Develop software following industry best practices
 - Apply Agile methodologies in project management
 - Utilize tools like Git, Docker, and Jenkins
-
----
 
 ## Resources
 - **Books:** Relevant textbooks and online courses
